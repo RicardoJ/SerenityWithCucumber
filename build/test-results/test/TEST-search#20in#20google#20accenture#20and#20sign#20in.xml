@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="search in google accenture and sign in" tests="1" skipped="0" failures="0" errors="0" timestamp="2018-10-22T19:32:06" hostname="CPX-6LU0TAL5SXK" time="43.494">
+  <properties/>
+  <testcase name="search accenture and sign in" classname="search in google accenture and sign in" time="43.494"/>
+  <system-out><![CDATA[Ingresar con e-mail y contraseña
+]]></system-out>
+  <system-err><![CDATA[Oct 22, 2018 2:32:07 PM org.openqa.selenium.remote.DesiredCapabilities chrome
+INFO: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+Starting ChromeDriver 2.40.565498 (ea082db3280dd6843ebfb08a625e3eb905c4f5ab) on port 47934
+Only local connections are allowed.
+Oct 22, 2018 2:32:13 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: OSS
+[Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - 
+        __    _____ _____ ____ _____   ____   _    ____  ____  _____ ____  
+  _     \ \  |_   _| ____/ ___|_   _| |  _ \ / \  / ___|/ ___|| ____|  _ \ 
+ (_)_____| |   | | |  _| \___ \ | |   | |_) / _ \ \___ \\___ \|  _| | | | |
+  _|_____| |   | | | |___ ___) || |   |  __/ ___ \ ___) |___) | |___| |_| |
+ (_)     | |   |_| |_____|____/ |_|   |_| /_/   \_\____/|____/|_____|____/ 
+        /_/                                                                
+
+TEST PASSED: search accenture and sign in
+----------------------------------------------------------------------------
+]]></system-err>
+</testsuite>
